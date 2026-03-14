@@ -4,12 +4,18 @@
 
 ---
 
-## About Me
+## Mission
+
+I am driven by curiosity and empathy, striving to make AI systems more **accessible, inclusive, and robust**. I translate foundational research into practical, real-world solutions for human-AI collaboration—centered on people, accessibility, and impact.
+
+---
+
+## Current Projects
 
 I am currently a core contributor at the [Shared Reality Lab](https://github.com/Shared-Reality-Lab), where I work on:
 
 - **[IMAGE-server](https://github.com/Shared-Reality-Lab/IMAGE-server):**  
-  Python-based server powering accessible, real-time, multi-modal research interaction. I build robust cloud infrastructure, real-time data streaming, and research tools for ML-based assistive technology.  
+  Python-based server powering accessible, real-time, multi-modal computer interaction. I build robust cloud infrastructure, and research tools for ML-based assistive technology.  
   _[LIVE demo: image.a11y.mcgill.ca](https://image.a11y.mcgill.ca)_
 
 - **[HapticMapExplore](https://github.com/samueljohnsegun148/HapticMapExplore):**  
@@ -24,18 +30,13 @@ I am currently a core contributor at the [Shared Reality Lab](https://github.com
 ---
 
 ## Technical Strengths
-- Python, C#, Kotlin, Unity, Cloud APIs, Android
-- Machine Learning (audio, IMU, conversational agents)
-- Haptics, perception, spatial computing, accessibility
+- Python, C#, Java, Kotlin, Unity, Processing, Cloud APIs, Android
+- Machine Learning, training and deployment for accessible solutions
 - AI-powered dialogue and interactive agents for navigation
+- Haptics, perception, spatial computing, accessibility
 - End-to-end prototyping & systems deployment
 - Collaborative research in adaptive and rapidly-evolving technical teams
 
----
-
-## Mission
-
-I am driven by curiosity and empathy, striving to make AI systems more **accessible, inclusive, and robust**. I translate foundational research into practical, real-world solutions for human-AI collaboration—centered on people, accessibility, and impact.
 
 ---
 
