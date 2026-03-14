@@ -1,6 +1,6 @@
 # Hi, I'm Samuel John Segun 👋
 
-**AI Research Engineer** specializing in accessible multimodal perception, human-computer interaction, and deployable intelligent systems. My work thoughtfully bridges conversational interactive systems, audio, haptics, and spatial navigation, combining research rigor with innovative engineering.
+**AI Research Student** specializing in accessible multimodal perception, human-computer interaction, and deployable intelligent systems. My work thoughtfully bridges conversational interactive systems, audio, haptics, and spatial navigation, combining research rigor with innovative engineering.
 
 ---
 
